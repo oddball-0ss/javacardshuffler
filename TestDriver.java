@@ -1,4 +1,4 @@
-class Main {
+class TestDriver {
 
       public static void main(String[] args) {
 
